@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Pilsner",
+    "Brand": "Heineken",
+    "Alcohol": 5.0
+  },
+  {
+    "Id": 2,
+    "Name": "Stout",
+    "Brand": "Guinness",
+    "Alcohol": 4.2
+  },
+  {
+    "Id": 3,
+    "Name": "IPA",
+    "Brand": "Sierra Nevada",
+    "Alcohol": 6.5
+  },
+  {
+    "Id": 4,
+    "Name": "Wheat Beer",
+    "Brand": "Blue Moon",
+    "Alcohol": 5.4
+  }
+]
