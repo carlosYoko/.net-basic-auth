@@ -5,7 +5,7 @@ namespace WebApplication1.Services;
 
 public class BeerService : IBeerService
 {
-    private readonly string path = @"/home/carlos/Dev/varios/c#/Pruebas/WebApplication1/WebApplication1/beers.json";
+    private readonly string path = @"/home/carlos/Dev/varios/c#/Pruebas/BasicAuth/BasicAuth/beers.json";
 
     public async Task<List<Beer>> Get()
     {
